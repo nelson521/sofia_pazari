@@ -57,3 +57,12 @@ img {
   margin: auto;
   margin-top: 5rem;
 }
+
+/* Social Media Section */
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: auto;
+  margin: 5rem 0;
+}
