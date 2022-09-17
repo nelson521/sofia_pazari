@@ -118,3 +118,15 @@ h3 {
   margin: auto;
   padding: 6rem 0;
 }
+
+/* contact-section */
+.contact-section {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  line-height: 1.8;
+}
+
+.contact-section a {
+  margin: 3rem 0;
+}
